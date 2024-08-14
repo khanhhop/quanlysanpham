@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "name": "laptop123456",
+      "price": 8765,
+      "description": "kkk",
+      "id": 1
+    },
+    {
+      "name": "laptop123",
+      "price": 80,
+      "description": "kkk",
+      "id": 2
+    }
+  ],
+  "users": [
+    {
+      "email": "hop@gmail.com",
+      "password": "$2a$10$9xaXDSwQTCCKqu3.ZXONaOkqnksbaoQMHYjGD2TcH8zBEGi/xXH0C",
+      "id": 1
+    },
+    {
+      "email": "a@gmail.com",
+      "password": "$2a$10$zTnhzJQ5s4Pl8sksltg47O.VZy2R/lwMwyDFfipDvjWjBfwURYgmK",
+      "id": 2
+    }
+  ]
+}
